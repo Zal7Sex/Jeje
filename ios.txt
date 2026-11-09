@@ -1,1 +1,1 @@
-https://harris-ryan-diagram-dream.trycloudflare.com
+https://api.trycloudflare.com
